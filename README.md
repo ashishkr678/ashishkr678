@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine learning...
 - 💞️ I’m looking to collaborate on AI projects...
 - 📫 For collaboration mail on :- ashishkumat818@gmail.com
+- 📫 LinkedIn :- ashish-kr01
 
 <!---
 ashishkr678/ashishkr678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
